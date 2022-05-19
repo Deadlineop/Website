@@ -1,0 +1,42 @@
+html{
+    background-color: rgb(0, 0, 0);    
+}
+h1{
+    color:rgb(255, 255, 255);
+    text-align: center;
+    border: 3px solid black;
+    background-image: url(../images/Thor.jpg);
+    background-position: 50px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-clip: border-box;
+    display:block;
+    margin-top: 10px;
+}
+.container{
+    max-width: 900;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+.p1{
+    color:orange;
+}
+.p2{
+    color:crimson;
+}
+.p3{
+    color:rgb(246, 255, 0);
+}
+.despo{
+    text-align: center;
+    color:rgb(5, 34, 255);
+    margin-top:50px;
+}
+h2{
+    text-align: center;
+    font-size: 200%;
+    color:rgb(74, 221, 54)
+}
+.retromyd{
+    text-align: center;
+}
